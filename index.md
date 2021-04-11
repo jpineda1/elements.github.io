@@ -35,7 +35,10 @@
         <img style="display: block; margin-left: auto; margin-right: auto;" class="" src="https://i.ibb.co/GMGYMKq/image-2.jpg">
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem; border: none;">Wind Turbine Inspection</h2>
         <ul>
-          <li><a href="#">Buy</a></li>
+          <li style="text-decoration: underline;"><a href="#">ADS Case Study (PDF)</a></li>
+          <li style="text-decoration: underline;"><a href="#">CVPD Case Study (PDF)</a></li>
+          <li style="text-decoration: underline;"><a href="#">BVLOS Waiver Announcement from FAA</a></li>
+          <li style="text-decoration: underline;"><a href="#">Internal Link 2</a></li>
         </ul>
         <a style="border: 1px solid black; border-radius: 2px; background: transparent; color: black; text-transform: uppercase; font-weight: 600; font-size: .765rem;" href="#" class="button expanded">use roi calculator</a>
       </div>
