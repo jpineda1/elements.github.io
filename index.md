@@ -33,7 +33,7 @@
 
     <div class="row gutter small-up-1 medium-up-2 large-up-4">
       <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
-        <img style="display: block; margin-left: auto; margin-right: auto;" class="" src="/images/image-1.png">
+        <img style="display: block; margin-left: auto; margin-right: auto;" class="" src="assets/images/image-1.png">
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem;">Wind Turbine Inspection</h2>
         <ul>
           <li><a href="#">Buy</a></li>
