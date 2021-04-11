@@ -7,8 +7,7 @@
     <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
   </head>
   <body>
-    <h1 style="display: none;"><a href="https://jpineda1.github.io/elements.github.io/">elements.github.io</a></h1>
-    <p style="display: none;">&lt;!doctype html&gt;</p>
+
     <!-- Start Top Bar -->
     <!--<div style="background: black;" class="top-bar">
       <div class="top-bar-left">
