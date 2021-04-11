@@ -34,7 +34,7 @@
       <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
         <img style="display: block; margin-left: auto; margin-right: auto;" class="" src="https://i.ibb.co/GMGYMKq/image-2.jpg">
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem; border: none;">Wind Turbine Inspection</h2>
-        <ul>
+        <ul style="color: #07f;">
           <li style="text-decoration: underline;"><a href="#">ADS Case Study (PDF)</a></li>
           <li style="text-decoration: underline;"><a href="#">CVPD Case Study (PDF)</a></li>
           <li style="text-decoration: underline;"><a href="#">BVLOS Waiver Announcement from FAA</a></li>
