@@ -28,7 +28,7 @@
     <!-- End Top Bar --> 
     <div style="max-width: 40rem;" class="row column text-center">
       <h4 style="font-size: .65rem; color: #808080; font-weight: 400; margin-top: 2rem;">HEADER</h4>
-      <h1 style="font-weight: 600; margin-bottom: 2rem;">Navigation Title</h1>
+      <h1 style="font-weight: 600; margin-bottom: 2rem; border: none;">Navigation Title</h1>
     </div>
 
     <div class="row gutter small-up-1 medium-up-2 large-up-4">
