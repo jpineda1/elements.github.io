@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundation | Welcome</title>
+    <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+  </head>
+  <body>
 
-You can use the [editor on GitHub](https://github.com/jpineda1/elements.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <!-- Start Top Bar -->
+    <div style="background: black;" class="top-bar">
+      <div class="top-bar-left">
+        <ul  style="background: black; color: white; font-weight: 400;" class="menu">
+          <li class="menu-text">Marketing Site</li>
+          <li><a href="#">Products</a></li>
+          <li><a href="#">Solutions</a></li>
+          <li><a href="#">Consumers</a></li>
+          <li><a href="#">Skydio AI&trade;</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Support</a></li>
+          <li><a href="#">Press</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a style="border-radius: 2px;" class="button" href="#">Shop</a></li>
+        </ul>
+      </div>
+    </div>
+    <!-- End Top Bar --> 
+    <div class="row column text-center">
+      <h4 style="font-size: .65rem; color: #808080; font-weight: 400; margin-top: 2rem;">HEADER</h4>
+      <h1 style="font-weight: 600; margin-bottom: 2rem;">Navigation Title</h1>
+    </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpineda1/elements.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <div class="row small-up-1 medium-up-2 large-up-4">
+      <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
+        <img style="display: block; margin-left: auto; margin-right: auto;" class="" src="https://cdn.sanity.io/images/mgxz50fq/production/c326bd068090d061a4ddcd14ab7c2834998060b6-320x320.png">
+        <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem;">Wind Turbine Inspection</h2>
+        <ul>
+          <li><a href="#">Buy</a></li>
+        </ul>
+        <a style="border: 1px solid black; border-radius: 2px; background: transparent; color: black; text-transform: uppercase; font-weight: 600; font-size: .765rem;" href="#" class="button expanded">use roi calculator</a>
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://cdn.sanity.io/images/mgxz50fq/production/c326bd068090d061a4ddcd14ab7c2834998060b6-320x320.png">
+        <h2>Section 2</h2>
+        <ul>
+          <li><a href="#">Buy</a></li>
+        </ul>
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://cdn.sanity.io/images/mgxz50fq/production/c326bd068090d061a4ddcd14ab7c2834998060b6-320x320.png">
+        <h5>Nulla At Nulla Justo, Eget</h5>
+        <p>$400</p>
+        <a href="#" class="button expanded">Buy</a>
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://cdn.sanity.io/images/mgxz50fq/production/c326bd068090d061a4ddcd14ab7c2834998060b6-320x320.png">
+        <h5>Nulla At Nulla Justo, Eget</h5>
+        <p>$400</p>
+        <a href="#" class="button expanded">Buy</a>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
