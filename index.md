@@ -32,7 +32,7 @@
     </div>
 
     <div class="row gutter small-up-1 medium-up-2 large-up-4">
-      <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column callout">
+      <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
         <img style="display: block; margin-left: auto; margin-right: auto;" class="" src="/images/image-1.png">
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem;">Wind Turbine Inspection</h2>
         <ul>
@@ -40,20 +40,20 @@
         </ul>
         <a style="border: 1px solid black; border-radius: 2px; background: transparent; color: black; text-transform: uppercase; font-weight: 600; font-size: .765rem;" href="#" class="button expanded">use roi calculator</a>
       </div>
-      <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column callout">
+      <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
         <img class="" src="https://cdn.sanity.io/images/mgxz50fq/production/c326bd068090d061a4ddcd14ab7c2834998060b6-320x320.png">
         <h2>Section 2</h2>
         <ul>
           <li><a href="#">Buy</a></li>
         </ul>
       </div>
-      <div class="column callout">
+      <div class="column">
         <img class="thumbnail" src="https://cdn.sanity.io/images/mgxz50fq/production/c326bd068090d061a4ddcd14ab7c2834998060b6-320x320.png">
         <h5>Nulla At Nulla Justo, Eget</h5>
         <p>$400</p>
         <a href="#" class="button expanded">Buy</a>
       </div>
-      <div class="column callout">
+      <div class="column">
         <img class="thumbnail" src="https://cdn.sanity.io/images/mgxz50fq/production/c326bd068090d061a4ddcd14ab7c2834998060b6-320x320.png">
         <h5>Nulla At Nulla Justo, Eget</h5>
         <p>$400</p>
