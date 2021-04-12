@@ -35,20 +35,20 @@
         <img style="display: block; margin-left: auto; margin-right: auto;" class="" src="https://i.ibb.co/GMGYMKq/image-2.jpg">
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem; border: none;">Wind Turbine Inspection</h2>
         <ul style="color: #07f;">
-          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">ADS Case Study (PDF)</a></li>
-          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">CVPD Case Study (PDF)</a></li>
-          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">BVLOS Waiver Announcement from FAA</a></li>
-          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">Internal Link 2</a></li>
+          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="https://pages.skydio.com/white-paper-building-public-safety-drone-program.html" target="_blank">ADS Case Study (PDF)</a></li>
+          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="https://drive.google.com/file/d/15VAN_iTSauHbyUwVcSVo92ILqNd5ueRW/view" target="_blank">CVPD Case Study (PDF)</a></li>
+          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="https://drive.google.com/file/d/18bHhOOecz2SOl8Q795CUbfQukBnVgTve/view" target="_blank">BVLOS Waiver Announcement from FAA</a></li>
+          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="https://pages.skydio.com/white-paper-building-public-safety-drone-program.html" target="_blank">Internal Link 2</a></li>
         </ul>
-        <a style="border: 1px solid black; border-radius: 2px; background: transparent; color: black; text-transform: uppercase; font-weight: 600; font-size: .765rem;" href="#" class="button expanded">use roi calculator</a>
+        <a style="border: 1px solid black; border-radius: 2px; background: transparent; color: black; text-transform: uppercase; font-weight: 600; font-size: .765rem;" href="https://www.skydio.com/" target="_blank" class="button expanded">use roi calculator</a>
       </div>
       <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
         <img class="" src="https://i.ibb.co/WsyMPSL/Artboard-1.png">
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem; border: none;">Section 2</h2>
         <p style="font-size: .925rem;">Some short copy here to describe what's covered in this section.</p>
         <ul style="color: #07f;">
-          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">External Link 1</a></li>
-          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">Internal Link 1</a></li>
+          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="https://www.skydio.com/" target="_blank">External Link 1</a></li>
+          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="https://www.skydio.com/" target="_blank">Internal Link 1</a></li>
         </ul>
       </div>
       <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
@@ -65,7 +65,7 @@
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem; border: none;">Section 4</h2>
         <p style="font-size: .925rem;">Wind Turbine Inspection with Skydio</p>
         <ul style="color: #07f;">
-          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">External Link 1</a></li>
+          <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="https://www.skydio.com/skydio-x2" target="_blank">External Link 1</a></li>
           <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">Internal Link 1</a></li>
         </ul>
       </div>
