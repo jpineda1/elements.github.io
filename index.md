@@ -45,7 +45,7 @@
       <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
         <img class="" src="https://i.ibb.co/WsyMPSL/Artboard-1.png">
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem; border: none;">Section 2</h2>
-        <p>$400</p>
+        <p>Some short copy here to describe what's covered in this section.</p>
         <ul style="color: #07f;">
           <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">External Link 1</a></li>
           <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">Internal Link 1</a></li>
@@ -54,7 +54,7 @@
       <div style="background-color: #f8f8f8;  padding: 1.5rem;" class="column">
         <img class="" src="https://i.ibb.co/9tCpqBG/Artboard-2.png">
         <h2 style="font-weight: 600; font-size: 1.5rem; text-align: center; padding-top: 1rem; border: none;">Section 3</h2>
-        <p>$400</p>
+        <p>Some short copy here to describe what's covered in this section.</p>
         <ul style="color: #07f;">
           <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">External Link 1</a></li>
           <li style="text-decoration: underline; margin-top: 0;"><a style="color: #07f; font-size: .795rem;" href="#">Internal Link 1</a></li>
